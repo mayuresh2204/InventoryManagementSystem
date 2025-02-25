@@ -26,8 +26,8 @@ public class Product {
 	int id;
 	
 	String name;
-	String price;
-	String quantity;
+	double price;
+	int quantity;
 	String description;
 	String available;
 	
